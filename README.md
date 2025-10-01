@@ -6,7 +6,7 @@ Este projeto demonstra como utilizar **plataformas de automação no-cod**e (ex.
 
 
 
-###### **⚙️ Estrutura do Fluxo**
+### **⚙️ Estrutura do Fluxo**
 
 1. Webhook → Captura eventos disparados pela plataforma de vendas.
 2. Router (Make) → Direciona cada evento para o caminho correto.
@@ -14,7 +14,7 @@ Este projeto demonstra como utilizar **plataformas de automação no-cod**e (ex.
 
 
 
-###### **📧 Exemplos de Eventos Configurados**
+### **📧 Exemplos de Eventos Configurados**
 
 * **Compra Aprovada** → Envia e-mail de boas-vindas.
 * **Boleto Gerado** → Envia e-mail de lembrete de pagamento.
@@ -26,13 +26,13 @@ Este projeto demonstra como utilizar **plataformas de automação no-cod**e (ex.
 
 
 
-###### **🖼️ Fluxo Visual**
+### **🖼️ Fluxo Visual**
 
 ![Fluxo](fluxo_automacao_vendas.png)
 
 
 
-###### 🖼️ **Exemplos de E-mails Personalizado**s
+### 🖼️ **Exemplos de E-mails Personalizado**s
 
 * E-mail de **Compra Aprovada**
 * E-mail de **Boleto Gerado**
@@ -48,7 +48,7 @@ Este projeto demonstra como utilizar **plataformas de automação no-cod**e (ex.
 
 
 
-###### **🚀 Benefícios da Automação**
+### **🚀 Benefícios da Automação**
 
 * **Identidade da marca** → e-mails deixam de ser genéricos e passam a ter a cara da sua empresa.
 * **Aumento de conversão** → lembretes e mensagens personalizadas impactam mais os clientes.
@@ -56,7 +56,7 @@ Este projeto demonstra como utilizar **plataformas de automação no-cod**e (ex.
 
 
 
-###### **🛠️ Tecnologias utilizadas**
+### **🛠️ Tecnologias utilizadas**
 
 * **Make** – para automação no-code
 * **Outlook** – envio de e-mails automatizados
