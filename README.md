@@ -28,7 +28,7 @@ Este projeto demonstra como utilizar **plataformas de automação no-cod**e (ex.
 
 ###### **🖼️ Fluxo Visual**
 
-!\[Fluxo](fluxo\_automacao\_vendas.png)
+![Fluxo](fluxo_automacao_vendas.png)
 
 
 
@@ -42,9 +42,9 @@ Este projeto demonstra como utilizar **plataformas de automação no-cod**e (ex.
 
 ![Compra Aprovada](emails/compra_aprovada.png)
 
-!\[Boleto Gerado](emails/boleto\_gerado.png)
+![Boleto Gerado](emails/boleto_gerado.png)
 
-!\[Assinatura Cancelada](emails/assinatura\_cancelada.png)
+![Assinatura Cancelada](emails/assinatura_cancelada.png)
 
 
 
