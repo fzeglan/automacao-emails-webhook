@@ -26,7 +26,7 @@ Este projeto demonstra como utilizar **plataformas de automação no-cod**e (ex.
 
 
 
-### **🖼️ Fluxo Visual**
+### **🖼️ Fluxo Visual Make**
 
 ![Fluxo](fluxo_automacao_vendas.png)
 
@@ -65,6 +65,5 @@ Este projeto demonstra como utilizar **plataformas de automação no-cod**e (ex.
 
 
 📌 **Status**: Projeto em prototipagem e testes práticos.
-
 📌 **Parte da iniciativa**: ***Fyze Automations***<i> – soluções de automação para negócios digitais.</i>
 
