@@ -40,7 +40,7 @@ Este projeto demonstra como utilizar **plataformas de automação no-cod**e (ex.
 
 
 
-!\[Compra Aprovada](emails/compra\_aprovada.png)
+![Compra Aprovada](emails/compra_aprovada.png)
 
 !\[Boleto Gerado](emails/boleto\_gerado.png)
 
